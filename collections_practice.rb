@@ -1,3 +1,4 @@
+require"pry"
 def begins_with_r(array)
   new_array = []
   array.collect do |element|
